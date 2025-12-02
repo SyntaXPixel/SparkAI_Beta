@@ -1,6 +1,80 @@
+
+## SyntaXPixel Non-Commercial Copyleft License (SNCL-C v1.0)
 Copyright (c) 2025 AJ (SyntaXPixel)
 All Rights Reserved.
 
-This project and its source code are proprietary. 
-No permission is granted to copy, modify, merge, publish, distribute, sublicense, or sell copies of this software, 
-in whole or in part, without explicit written consent from the author.
+---
+
+## 1. Permission
+You are granted a limited license to:
+
+- Use the software for personal, academic, or non-commercial purposes.
+- Modify the software for personal, academic, or non-commercial purposes.
+- Distribute original or modified versions only if all conditions in this license are followed.
+
+---
+
+## 2. Attribution Requirement
+Any use, modification, or distribution must clearly credit the original author:
+
+Original Author: AJ (SyntaXPixel)  
+Source Repository: https://github.com/SyntaXPixel/SparkAI_Beta
+
+The author's name and copyright notices may not be removed, altered, or replaced.
+
+---
+
+## 3. Copyleft Requirement (Open Source Obligation)
+Any modified version that you distribute must remain open source under this exact license. The following conditions apply:
+
+- Modified versions must make their full source code publicly available.
+- Closed-source or proprietary forks are not permitted.
+- Relicensing under any other license is prohibited.
+- This LICENSE.md file must be included unchanged in all distributed versions.
+
+---
+
+## 4. Non-Commercial Clause
+Commercial use of this software is strictly prohibited. This includes, but is not limited to:
+
+- Selling the software or derivatives
+- Using it within paid products or services
+- Any activity that generates direct or indirect financial profit
+
+Commercial use is permitted only with explicit written permission from:
+
+AJ (SyntaXPixel)  
+Email: ajinkya.syntax404@gmail.com
+
+---
+
+## 5. Distribution Conditions
+If you share the original or modified software, you must:
+
+1. Include this LICENSE.md file without modification.
+2. Preserve all copyright and attribution notices.
+3. Provide clear credit to AJ (SyntaXPixel).
+4. Document all changes made.
+
+Example change log:
+
+Changes made by <Your Name> on <Date>:  
+- Modified feature X  
+- Added module Y  
+- Corrected issue Z  
+
+---
+
+## 6. Prohibited Actions
+You are not permitted to:
+
+- Claim authorship of the original work
+- Remove or obscure attribution
+- Use the software for commercial purposes
+- Distribute closed-source or re-licensed derivatives
+
+---
+
+## 7. Liability
+The software is provided “as is,” without any warranty of any kind.
+The author is not liable for any damages, losses, or misuse resulting from the use of this software.
