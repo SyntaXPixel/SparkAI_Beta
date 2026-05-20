@@ -399,20 +399,24 @@ All routes are prefixed with `/api`. Base URL: `http://localhost:8000`
 
 ## License
 
+
+This project is licensed under the **SyntaXPixel Non-Commercial Copyleft License (SNCL-C v1.0)**.
+Copyright (c) 2025 AJ (SyntaXPixel). All Rights Reserved.
+
+You are allowed to use, modify, and distribute this software for **personal, academic, or non-commercial purposes only**, provided you follow these conditions:
+
+- Credit the original author clearly — **AJ (SyntaXPixel)**
+- Source: https://github.com/SyntaXPixel/SparkAI_Beta
+- Keep this license file included and unchanged in all distributed versions.
+- Any modified version you distribute must remain open source under this same license and include a documented changelog of your changes.
+
+**Commercial use is strictly prohibited** without explicit written permission from the author.  
+To request commercial use: ajinkya.syntax404@gmail.com
+
+The software is provided "as is" without any warranty. The author is not liable for any damages or misuse resulting from its use.
+
+For the full license terms, see the [LICENSE](./LICENSE) file.
+
 This project was submitted in partial fulfillment of the requirements for the  
 Department of Artificial Intelligence and Machine Learning.
-```
 
----
-
-This README was compiled from the following sources:
-
-- Original content from [README.md](https://app.sourcebot.dev/browse/github.com/SyntaXPixel/SparkAI_Beta/-/blob/README.md)
-- Frontend scripts and dependencies from [package.json:5-66](https://app.sourcebot.dev/browse/github.com/SyntaXPixel/SparkAI_Beta/-/blob/package.json?highlightRange=5%2C66)
-- Dev server port from [vite.config.ts:57-60](https://app.sourcebot.dev/browse/github.com/SyntaXPixel/SparkAI_Beta/-/blob/vite.config.ts?highlightRange=57%2C60)
-- Backend routes from [main.py:158-401](https://app.sourcebot.dev/browse/github.com/SyntaXPixel/SparkAI_Beta/-/blob/backend%2Fapp%2Fmain.py?highlightRange=158%2C401)
-- Python dependencies from [requirements.txt](https://app.sourcebot.dev/browse/github.com/SyntaXPixel/SparkAI_Beta/-/blob/backend%2Frequirements.txt)
-- Email and OTP config from [config.py](https://app.sourcebot.dev/browse/github.com/SyntaXPixel/SparkAI_Beta/-/blob/backend%2Fapp%2Fconfig.py)
-- OTP test mode flag from [otp_service.py:17-31](https://app.sourcebot.dev/browse/github.com/SyntaXPixel/SparkAI_Beta/-/blob/backend%2Fapp%2Fotp_service.py?highlightRange=17%2C31)
-- DB seeder from [init_db.py:13-30](https://app.sourcebot.dev/browse/github.com/SyntaXPixel/SparkAI_Beta/-/blob/backend%2Finit_db.py?highlightRange=13%2C30)
-- Page components from [App.tsx:1-13](https://app.sourcebot.dev/browse/github.com/SyntaXPixel/SparkAI_Beta/-/blob/src%2FApp.tsx?highlightRange=1%2C13)
