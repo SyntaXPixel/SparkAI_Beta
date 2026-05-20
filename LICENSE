@@ -1,80 +1,169 @@
+SyntaXPixel Non-Commercial Copyleft License
+Version 1.0, 2025
 
-## SyntaXPixel Non-Commercial Copyleft License (SNCL-C v1.0)
-Copyright (c) 2025 AJ (SyntaXPixel)
-All Rights Reserved.
+Copyright (c) 2025 AJ (SyntaXPixel). All Rights Reserved.
 
----
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-## 1. Permission
-You are granted a limited license to:
+────────────────────────────────────────────────────────────────
 
-- Use the software for personal, academic, or non-commercial purposes.
-- Modify the software for personal, academic, or non-commercial purposes.
-- Distribute original or modified versions only if all conditions in this license are followed.
+SECTION 1 — DEFINITIONS
 
----
+"License" refers to the terms and conditions set forth in this document.
 
-## 2. Attribution Requirement
-Any use, modification, or distribution must clearly credit the original author:
+"Licensor" refers to AJ (SyntaXPixel), the original author and copyright holder.
 
-Original Author: AJ (SyntaXPixel)  
-Source Repository: https://github.com/SyntaXPixel/SparkAI_Beta
+"Software" refers to the SparkAI source code, documentation, assets, and all 
+associated files made available under this License.
 
-The author's name and copyright notices may not be removed, altered, or replaced.
+"You" (or "Your") refers to any individual or legal entity exercising permissions 
+granted by this License.
 
----
+"Modified Version" means any work derived from or based on the Software in which 
+one or more portions have been changed, added, removed, or adapted.
 
-## 3. Copyleft Requirement (Open Source Obligation)
-Any modified version that you distribute must remain open source under this exact license. The following conditions apply:
+"Commercial Use" means any use of the Software, in whole or in part, that is 
+intended for or results in direct or indirect financial gain, compensation, or 
+commercial advantage.
 
-- Modified versions must make their full source code publicly available.
-- Closed-source or proprietary forks are not permitted.
-- Relicensing under any other license is prohibited.
-- This LICENSE.md file must be included unchanged in all distributed versions.
+────────────────────────────────────────────────────────────────
 
----
+SECTION 2 — GRANT OF PERMISSIONS
 
-## 4. Non-Commercial Clause
-Commercial use of this software is strictly prohibited. This includes, but is not limited to:
+Subject to the terms and conditions of this License, the Licensor hereby grants 
+You a worldwide, royalty-free, non-exclusive, non-transferable, limited license to:
 
-- Selling the software or derivatives
-- Using it within paid products or services
-- Any activity that generates direct or indirect financial profit
+  a) Use the Software for personal, academic, or non-commercial purposes.
+  b) Modify the Software for personal, academic, or non-commercial purposes.
+  c) Distribute original or Modified Versions of the Software, provided that all 
+     conditions stated in this License are strictly observed.
 
-Commercial use is permitted only with explicit written permission from:
+────────────────────────────────────────────────────────────────
 
-AJ (SyntaXPixel)  
-Email: ajinkya.syntax404@gmail.com
+SECTION 3 — ATTRIBUTION REQUIREMENTS
 
----
+Any use, modification, or distribution of the Software must include clear and 
+prominent credit to the original author as follows:
 
-## 5. Distribution Conditions
-If you share the original or modified software, you must:
+  Original Author  : AJ (SyntaXPixel)
+  Source Repository: https://github.com/SyntaXPixel/SparkAI_Beta
 
-1. Include this LICENSE.md file without modification.
-2. Preserve all copyright and attribution notices.
-3. Provide clear credit to AJ (SyntaXPixel).
-4. Document all changes made.
+You must not remove, alter, obscure, or replace any copyright notices, attribution 
+statements, or author identification present in the original Software or any 
+distributed copies thereof.
 
-Example change log:
+────────────────────────────────────────────────────────────────
 
-Changes made by <Your Name> on <Date>:  
-- Modified feature X  
-- Added module Y  
-- Corrected issue Z  
+SECTION 4 — COPYLEFT AND OPEN SOURCE OBLIGATION
 
----
+If You distribute a Modified Version of the Software, You must comply with all 
+of the following:
 
-## 6. Prohibited Actions
-You are not permitted to:
+  a) The Modified Version must be distributed under this exact License, without 
+     alteration, addition, or removal of any terms.
+  b) The full source code of the Modified Version must be made publicly available 
+     at no cost and without restriction.
+  c) This LICENSE file must be included, unchanged, in all distributed copies.
+  d) All modifications must be documented in a changelog accompanying the 
+     distribution, including a description of the changes, the name of the 
+     contributor, and the date of modification.
+  e) Closed-source, proprietary, or re-licensed derivatives are strictly prohibited.
 
-- Claim authorship of the original work
-- Remove or obscure attribution
-- Use the software for commercial purposes
-- Distribute closed-source or re-licensed derivatives
+────────────────────────────────────────────────────────────────
 
----
+SECTION 5 — NON-COMMERCIAL USE RESTRICTION
 
-## 7. Liability
-The software is provided “as is,” without any warranty of any kind.
-The author is not liable for any damages, losses, or misuse resulting from the use of this software.
+Commercial Use of this Software is strictly prohibited without prior explicit 
+written permission from the Licensor. Commercial Use includes, but is not limited to:
+
+  a) Selling the Software or any derivative work, in whole or in part.
+  b) Incorporating the Software into a paid product, platform, or service.
+  c) Using the Software to provide services for compensation or financial gain.
+  d) Any activity, direct or indirect, that generates revenue, profit, or 
+     commercial advantage from the Software.
+
+To request written permission for commercial use, contact the Licensor at:
+
+  Email: ajinkya.syntax404@gmail.com
+
+────────────────────────────────────────────────────────────────
+
+SECTION 6 — DISTRIBUTION CONDITIONS
+
+When distributing the original or a Modified Version of the Software, You must:
+
+  a) Include this LICENSE file in its original, unmodified form.
+  b) Preserve all copyright notices, attribution statements, and author credits.
+  c) Provide clear attribution to AJ (SyntaXPixel) as the original author.
+  d) Include a documented changelog if the distribution contains modifications.
+
+A changelog entry must follow this format:
+
+  Modifications by [Your Name] — [Date]
+  - [Description of change 1]
+  - [Description of change 2]
+  - [Description of change 3]
+
+────────────────────────────────────────────────────────────────
+
+SECTION 7 — PROHIBITED ACTIONS
+
+You are expressly prohibited from:
+
+  a) Claiming authorship or ownership of the original Software or any substantial 
+     portion thereof.
+  b) Removing, modifying, or obscuring any copyright notice or attribution.
+  c) Using the Software for any Commercial Use without written permission.
+  d) Distributing closed-source or proprietary derivatives.
+  e) Relicensing the Software or any Modified Version under any other license.
+  f) Misrepresenting the origin of the Software.
+
+────────────────────────────────────────────────────────────────
+
+SECTION 8 — DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS 
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+THE LICENSOR MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING THE ACCURACY, 
+COMPLETENESS, OR RELIABILITY OF THE SOFTWARE OR ITS SUITABILITY FOR ANY 
+PARTICULAR USE.
+
+────────────────────────────────────────────────────────────────
+
+SECTION 9 — LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS 
+OF DATA, LOSS OF PROFITS, BUSINESS INTERRUPTION, OR PROCUREMENT OF SUBSTITUTE 
+GOODS OR SERVICES) ARISING OUT OF OR IN CONNECTION WITH THE USE, INABILITY TO 
+USE, OR DISTRIBUTION OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF 
+SUCH DAMAGES.
+
+────────────────────────────────────────────────────────────────
+
+SECTION 10 — TERMINATION
+
+Your rights under this License will terminate automatically and without notice if 
+You fail to comply with any of its terms and conditions. Upon termination, You must 
+immediately cease all use, distribution, and possession of the Software and any 
+Modified Versions thereof.
+
+The Licensor reserves the right to pursue legal remedies for any violation of 
+this License.
+
+────────────────────────────────────────────────────────────────
+
+SECTION 11 — GOVERNING LAW
+
+This License shall be governed by and interpreted in accordance with applicable 
+law. Any disputes arising from this License shall be subject to the exclusive 
+jurisdiction of the courts competent in the Licensor's jurisdiction.
+
+────────────────────────────────────────────────────────────────
+
+END OF TERMS AND CONDITIONS
+
+For permissions beyond the scope of this License, contact:
+AJ (SyntaXPixel) — ajinkya.syntax404@gmail.com
